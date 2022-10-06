@@ -1,0 +1,2 @@
+cloner un repo : git clone + lien https (sur le repo github)
+3 commandes de push ; 1 - git add . 2 - git commit -m "nom voulu" 3 - git push -u origin master
